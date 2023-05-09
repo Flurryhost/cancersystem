@@ -1,0 +1,3 @@
+[build]
+  base = "Main-Daahboard"
+  publish = "Main-Daahboard/dist"
